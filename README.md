@@ -1,0 +1,1 @@
+This is kaishoji's first git project!
