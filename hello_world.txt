@@ -1,2 +1,3 @@
 Lesson on HTML starting today~!
 Am almost done with the Responsive Web Design segment on FCC!
+Finished up Responsive Web Design on FCC, excited for what comes next!
