@@ -1,3 +1,6 @@
 Lesson on HTML starting today~!
 Am almost done with the Responsive Web Design segment on FCC!
 Finished up Responsive Web Design on FCC, excited for what comes next!
+
+On a new OS! Getting familiar with MacOS as my primary platform now! Very exciting! Anyway, just checking to see 
+if I set up git//hub correctly...
